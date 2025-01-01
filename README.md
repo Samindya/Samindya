@@ -29,7 +29,27 @@ I'm a passionate Software Quality Assurance (SQA) Engineer with a deep interest 
 
 <div align="center">
 <h3>Languages & Tools:</h3>
-<img src="https://skillicons.dev/icons?i=python,java,selenium,jira,git,github,cypress,pytest,postman,jenkins,docker" alt="Tech Stack" title="Software Quality Assurance Tools"/>
+<!-- QA & Testing Tools -->
+<img src="https://skillicons.dev/icons?i=selenium,pytest,cypress,jira,postman,jenkins,git,docker,mocha" alt="Testing Tools" title="QA Tools"/>
+
+<!-- Test Automation -->
+<img src="https://skillicons.dev/icons?i=python,java,javascript,typescript" alt="Test Automation Languages" title="Test Automation Languages"/>
+
+<!-- CI/CD -->
+<img src="https://skillicons.dev/icons?i=circleci,gitlab,githubactions" alt="CI/CD Tools" title="CI/CD Tools"/>
+
+<!-- Test Management -->
+<img src="https://skillicons.dev/icons?i=confluence,trello,asana" alt="Test Management Tools" title="Test Management"/>
+
+<!-- Bug Tracking -->
+<img src="https://skillicons.dev/icons?i=bugzilla,redmine" alt="Bug Tracking" title="Bug Tracking"/>
+
+<!-- Performance Testing -->
+<img src="https://skillicons.dev/icons?i=jmeter,loadrunner" alt="Performance Testing" title="Performance Testing"/>
+
+<!-- Other Tools -->
+<img src="https://skillicons.dev/icons?i=swagger,chai,karate" alt="Other Testing Tools" title="Other Testing Tools"/>
+
 </div>
 
 <br>
