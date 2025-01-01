@@ -30,7 +30,7 @@ I'm a passionate Software Quality Assurance (SQA) Engineer with a deep interest 
 <div align="center">
 <h3>Languages & Tools:</h3>
 <!-- QA & Testing Tools -->
-<img src="https://skillicons.dev/icons?i=selenium,pytest,cypress,jira,postman,jenkins,git,docker,mocha" alt="Testing Tools" title="QA Tools"/>
+<img src="https://skillicons.dev/icons?i=selenium,cypress,clickup,postman,jenkins,git,docker,mocha" alt="Testing Tools" title="QA Tools"/>
 
 <!-- Test Automation -->
 <img src="https://skillicons.dev/icons?i=python,java,javascript,typescript" alt="Test Automation Languages" title="Test Automation Languages"/>
